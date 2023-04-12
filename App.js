@@ -83,6 +83,7 @@ const styles = StyleSheet.create({
     //backgroundColor: "rgb(206, 240, 185)",
     alignItems: "center",
     justifyContent: "center",
+    width: "100%",
   },
   image: {
     marginBottom: 250,
